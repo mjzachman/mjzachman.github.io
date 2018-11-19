@@ -1,0 +1,27 @@
+body {
+	background-color: #EEE;
+}
+
+
+#ribbon {
+	background-color: purple;
+	color: pink;
+	text-align: center;
+}
+
+#tile {
+	margin: auto;
+	background-color: pink;
+	color: purple;
+	text-align: center;
+	width: 1000
+}
+
+#reason {
+	margin: auto;
+	background-color: pink;
+	color: purple;
+	text-align: center;
+	width:1000
+	
+}
